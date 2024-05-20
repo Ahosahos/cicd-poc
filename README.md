@@ -15,11 +15,10 @@
 - Open your project file in VS Code
 - Run `npm init`
 - Fill in the project details upon initialization
-![image](https://github.com/Ahosahos/cicd-poc/assets/86953460/658bce31-956c-4217-b5fe-4df147cc57a0)
-
+  ![image](https://github.com/Ahosahos/cicd-poc/assets/86953460/658bce31-956c-4217-b5fe-4df147cc57a0)   
   You should get something like this:   
-  ![image](https://github.com/Ahosahos/cicd-poc/assets/86953460/4cb5cd40-c12f-4639-aac5-4240aea1dfa0)
-  Click `Yes` and your project is ready.
+  ![Untitled](https://github.com/Ahosahos/cicd-poc/assets/86953460/b07a77c5-3279-4417-8205-82fb2438e1a9)   
+- Type `Yes` or `Y` and your project is ready.
 
 ### Add dependencies and install project
 - Run `npm install express` to add express.js in your project 
