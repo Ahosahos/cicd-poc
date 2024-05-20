@@ -16,8 +16,6 @@
 - Run `npm init`
 - Fill in the project details upon initialization
   ![image](https://github.com/Ahosahos/cicd-poc/assets/86953460/658bce31-956c-4217-b5fe-4df147cc57a0)   
-  You should get something like this:   
-  ![Untitled](https://github.com/Ahosahos/cicd-poc/assets/86953460/b07a77c5-3279-4417-8205-82fb2438e1a9)   
 - Type `Yes` or `Y` and your project is ready.
 
 ### Add dependencies and install project
@@ -29,7 +27,7 @@
 ### Custom start command
 - You can have your custom start command by stating it in `package.json` , the concept is `this command by npm, do what?`
 - Start command sample: 
-![image](https://github.com/Ahosahos/cicd-poc/assets/86953460/642ac8ec-74c2-441e-ac81-989c9c32ebdf)
+![Untitled](https://github.com/Ahosahos/cicd-poc/assets/86953460/b07a77c5-3279-4417-8205-82fb2438e1a9)   
 
 ### Running project
 - If you use custom start command, just run `npm {your start command}`
